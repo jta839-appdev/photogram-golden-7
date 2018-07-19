@@ -1,0 +1,113 @@
+=> [[32m#<Photo:0x007fa570045750[0m
+  id: [1;34m3[0m,
+  source: [31m[1;31m"[0m[31mhttps://www.freelogodesign.org/Content/img/logo-ex-7.png[1;31m"[0m[31m[0m,
+  caption: [31m[1;31m"[0m[31mLogo[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m00[0m:[1;34m42[0m:[1;34m11[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m00[0m:[1;34m42[0m:[1;34m11[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Photo:0x007fa570045610[0m
+  id: [1;34m1337[0m,
+  source: [31m[1;31m"[0m[31mp.jpg[1;31m"[0m[31m[0m,
+  caption: [31m[1;31m"[0m[31mDummy image[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m00[0m:[1;34m35[0m:[1;34m48[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m00[0m:[1;34m35[0m:[1;34m48[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Photo:0x007fa5700454d0[0m id: [1;34m1338[0m, source: [1;36mnil[0m, caption: [1;36mnil[0m, created_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m00[0m:[1;34m37[0m:[1;34m25[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m, updated_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m00[0m:[1;34m37[0m:[1;34m25[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Photo:0x007fa570045390[0m
+  id: [1;34m1339[0m,
+  source: [31m[1;31m"[0m[31mhttps://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tracy_Caldwell_Dyson_in_Cupola_ISS.jpg/640px-Tracy_Caldwell_Dyson_in_Cupola_ISS.jpg[1;31m"[0m[31m[0m,
+  caption: [31m[1;31m"[0m[31mAstronaut[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m43[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m43[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Photo:0x007fa570045250[0m
+  id: [1;34m1340[0m,
+  source: [31m[1;31m"[0m[31mhttps://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Polarlicht_2.jpg/640px-Polarlicht_2.jpg[1;31m"[0m[31m[0m,
+  caption: [31m[1;31m"[0m[31mAurora[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m43[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m43[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Photo:0x007fa570045110[0m
+  id: [1;34m1341[0m,
+  source: [31m[1;31m"[0m[31mhttps://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pair_of_Merops_apiaster_feeding.jpg/640px-Pair_of_Merops_apiaster_feeding.jpg[1;31m"[0m[31m[0m,
+  caption: [31m[1;31m"[0m[31mBirds[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m43[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m43[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Photo:0x007fa570044fd0[0m
+  id: [1;34m1342[0m,
+  source: [31m[1;31m"[0m[31mhttps://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Mostar_Old_Town_Panorama_2007.jpg/640px-Mostar_Old_Town_Panorama_2007.jpg[1;31m"[0m[31m[0m,
+  caption: [31m[1;31m"[0m[31mBridge[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m43[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m43[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Photo:0x007fa570044e90[0m
+  id: [1;34m1343[0m,
+  source: [31m[1;31m"[0m[31mhttps://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Fire_breathing_2_Luc_Viatour.jpg/640px-Fire_breathing_2_Luc_Viatour.jpg[1;31m"[0m[31m[0m,
+  caption: [31m[1;31m"[0m[31mFirebreather[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m43[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m43[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Photo:0x007fa570044d50[0m
+  id: [1;34m1344[0m,
+  source: [31m[1;31m"[0m[31mhttps://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Biandintz_eta_zaldiak_-_modified2.jpg/640px-Biandintz_eta_zaldiak_-_modified2.jpg[1;31m"[0m[31m[0m,
+  caption: [31m[1;31m"[0m[31mHorses[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m44[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m44[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Photo:0x007fa570044c10[0m
+  id: [1;34m1345[0m,
+  source: [31m[1;31m"[0m[31mhttps://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lake_Bondhus_Norway_2862.jpg/640px-Lake_Bondhus_Norway_2862.jpg[1;31m"[0m[31m[0m,
+  caption: [31m[1;31m"[0m[31mLake[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m44[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m44[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Photo:0x007fa570044ad0[0m
+  id: [1;34m1346[0m,
+  source: [31m[1;31m"[0m[31mhttps://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Gl%C3%BChwendel_brennt_durch.jpg/511px-Gl%C3%BChwendel_brennt_durch.jpg[1;31m"[0m[31m[0m,
+  caption: [31m[1;31m"[0m[31mLightbulb[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m44[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m44[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Photo:0x007fa570044990[0m
+  id: [1;34m1347[0m,
+  source:
+   [31m[1;31m"[0m[31mhttps://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Penguin_in_Antarctica_jumping_out_of_the_water.jpg/640px-Penguin_in_Antarctica_jumping_out_of_the_water.jpg[1;31m"[0m[31m[0m,
+  caption: [31m[1;31m"[0m[31mPenguins[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m44[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m44[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Photo:0x007fa570044850[0m
+  id: [1;34m1348[0m,
+  source: [31m[1;31m"[0m[31mhttps://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Pluto-01_Stern_03_Pluto_Color_TXT.jpg/768px-Pluto-01_Stern_03_Pluto_Color_TXT.jpg[1;31m"[0m[31m[0m,
+  caption: [31m[1;31m"[0m[31mPluto[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m44[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m44[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Photo:0x007fa570044710[0m
+  id: [1;34m1349[0m,
+  source:
+   [31m[1;31m"[0m[31mhttps://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Eichh%C3%B6rnchen_D%C3%BCsseldorf_Hofgarten_edit.jpg/640px-Eichh%C3%B6rnchen_D%C3%BCsseldorf_Hofgarten_edit.jpg[1;31m"[0m[31m[0m,
+  caption: [31m[1;31m"[0m[31mSquirel[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m44[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m44[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Photo:0x007fa5700445d0[0m
+  id: [1;34m1350[0m,
+  source: [31m[1;31m"[0m[31mhttps://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Nasir-al_molk_-1.jpg/620px-Nasir-al_molk_-1.jpg[1;31m"[0m[31m[0m,
+  caption: [31m[1;31m"[0m[31mStained glass[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m44[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m44[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Photo:0x007fa570044490[0m
+  id: [1;34m1351[0m,
+  source:
+   [31m[1;31m"[0m[31mhttps://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Magnificent_CME_Erupts_on_the_Sun_-_August_31.jpg/640px-Magnificent_CME_Erupts_on_the_Sun_-_August_31.jpg[1;31m"[0m[31m[0m,
+  caption: [31m[1;31m"[0m[31mSun[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m44[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m44[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Photo:0x007fa570044350[0m
+  id: [1;34m1352[0m,
+  source: [31m[1;31m"[0m[31mhttps://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Laser_Towards_Milky_Ways_Centre.jpg/661px-Laser_Towards_Milky_Ways_Centre.jpg[1;31m"[0m[31m[0m,
+  caption: [31m[1;31m"[0m[31mTelescope[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m44[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m44[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Photo:0x007fa570044210[0m
+  id: [1;34m1353[0m,
+  source: [31m[1;31m"[0m[31mhttps://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Broadway_tower_edit.jpg/640px-Broadway_tower_edit.jpg[1;31m"[0m[31m[0m,
+  caption: [31m[1;31m"[0m[31mTower[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m44[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m44[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Photo:0x007fa5700440d0[0m
+  id: [1;34m1354[0m,
+  source:
+   [31m[1;31m"[0m[31mhttps://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/A_butterfly_feeding_on_the_tears_of_a_turtle_in_Ecuador.jpg/640px-A_butterfly_feeding_on_the_tears_of_a_turtle_in_Ecuador.jpg[1;31m"[0m[31m[0m,
+  caption: [31m[1;31m"[0m[31mTurtles[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m44[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m19[0m [1;34;4mJul[0m [1;34m2018[0m [1;34m01[0m:[1;34m07[0m:[1;34m44[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m]
